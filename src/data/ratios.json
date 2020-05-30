@@ -1,0 +1,14 @@
+{
+  "lighter": {
+    "ratio": 0.055,
+    "title": "lighter"
+  },
+  "normal": {
+    "ratio": 0.06,
+    "title": "normal"
+  },
+  "stronger": {
+    "ratio": 0.065,
+    "title": "stronger"
+  }
+}

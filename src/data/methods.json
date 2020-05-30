@@ -1,0 +1,74 @@
+{
+  "frenchPress": {
+    "title": "French Press",
+    "grind": "medium - coarse",
+    "ratio": 0.06,
+    "amounts": [
+      {
+        "ml": 350,
+        "title": "0.35l"
+      },
+      {
+        "ml": 500,
+        "title": "0.5l"
+      },
+      {
+        "ml": 1000,
+        "title": "1l"
+      }
+    ]
+  },
+  "bialetti": {
+    "title": "Bialetti",
+    "grind": "fine - medium",
+    "ratio": 0.06,
+    "amounts": [
+      {
+        "ml": 150,
+        "title": "3 cups (150 ml)"
+      },
+      {
+        "ml": 320,
+        "title": "6 cups (320 ml)"
+      }
+    ]
+  },
+  "coffeeCone": {
+    "title": "Coffee Cone",
+    "grind": "medium",
+    "ratio": 0.065,
+    "amounts": [
+      {
+        "ml": 250,
+        "title": "250 ml"
+      },
+      {
+        "ml": 500,
+        "title": "500 ml"
+      }
+    ]
+  },
+  "chemex": {
+    "title": "Chemex",
+    "grind": "medium",
+    "ratio": 0.065,
+    "amounts": [
+      {
+        "ml": 300,
+        "title": "3 cups (300 ml)"
+      },
+      {
+        "ml": 600,
+        "title": "6 cups (600 ml)"
+      },
+      {
+        "ml": 800,
+        "title": "8 cups (800 ml)"
+      },
+      {
+        "ml": 1000,
+        "title": "10 cups (100 ml)"
+      }
+    ]
+  }
+}

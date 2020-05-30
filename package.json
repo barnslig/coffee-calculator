@@ -1,0 +1,23 @@
+{
+  "name": "@barnslig/coffee-calculator",
+  "version": "1.0.0",
+  "description": "Coffee Grinding Help",
+  "author": "Leonard Techel <git@barnslig.eu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html --open"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "emotion": "^10.0.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.1",
+    "@emotion/babel-preset-css-prop": "^10.0.27",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.3"
+  }
+}

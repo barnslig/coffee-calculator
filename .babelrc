@@ -1,0 +1,4 @@
+{
+  "plugins": ["babel-plugin-transform-inline-environment-variables"],
+  "presets": ["@emotion/babel-preset-css-prop"]
+}
