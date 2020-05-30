@@ -20,6 +20,7 @@
     "@babel/core": "^7.10.1",
     "@emotion/babel-preset-css-prop": "^10.0.27",
     "babel-plugin-transform-inline-environment-variables": "^0.4.3",
-    "cssnano": "^4.1.10"
+    "cssnano": "^4.1.10",
+    "parcel-bundler": "^1.12.4"
   }
 }
