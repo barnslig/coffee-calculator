@@ -83,12 +83,14 @@ const AmountInput = ({
             ref={$input}
             type="number"
             className={css`
+              appearance: none;
               border-radius: 4px 0 0 4px;
               border: 1px #ccc solid;
               border-right: 0;
               display: block;
               font-size: 16px;
               line-height: 48px;
+              margin: 0;
               padding-left: 15px;
               width: 100%;
             `}
